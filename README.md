@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya-negi&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya-negi" /> </p>
 
-- 🌱 I’m currently learning **Advanced Data Science Methodologies**
+- 🌱 I’m currently learning **Data Science Technologies**
 
-- 💬 Ask me about **Python, Machine Learning, and AI **
+- 💬 Ask me about ** Machine Learning, and AI **
 
 - 📫 How to reach me **kartik13negi@gmail.com**
 
